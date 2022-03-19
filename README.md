@@ -4,7 +4,7 @@ Ce github est fait pour mon projet de classe (chef d'oeuvre TSN Risc)
 
 Vous pouvez trouver les fichiers essentielle a faire fonctionner mon application qui se nome multi tool
 
-Infomartion :
+Information :
 
 Mon application contien :
 - Ecran de chargement :
